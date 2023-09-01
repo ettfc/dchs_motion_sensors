@@ -36,6 +36,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+    namespace = "finaldev.motion_sensors"
 }
 
 dependencies {
